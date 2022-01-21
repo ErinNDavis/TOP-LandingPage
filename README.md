@@ -1,6 +1,6 @@
 # TOP-LandingPage
 
-This exercise uses basic html and css to create a landing page that is supposed to look something like below:
+This exercise uses basic html and css to create a landing page from scratch to look like the provided design below:
 
 <img src="landingpage.png">
 
