@@ -56,5 +56,33 @@ button {
     color: white;
     background: #3882F6;
     border-radius: 5px;
-    border: none;
+    border: solid  1px white;
+}
+
+.random-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quote-block {
+    background: #E5E7EB;
+    text-align: center;
+    font-size: 36px;
+    font-weight:lighter;
+    font-style: italic;
+    color: #1F2937;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.quote-author {
+    font-weight: bold;
+    text-align: end;
+    font-style: normal;
+}
+
+.call-to-action {
+    background: #3882F6;
 }
